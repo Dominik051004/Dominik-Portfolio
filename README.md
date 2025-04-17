@@ -23,11 +23,11 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 **[Trainingsplan]** Zuerst habe ich habe ein Prompt für ChatGPT geschrieben.
 
-![Projektvorschau](c:\Users\domin\Documents\GitHub\Dominik-Portfolio\Bilder\Prompt Trainingsplan.png)
+![Prompt](<Prompt Trainingsplan.png>)
 
-![Ergebnis](c:\Users\domin\Documents\GitHub\Dominik-Portfolio\Bilder\Excel Trainingsplan.png)
+![Ergebnis](<Excel Trainingsplan-1.png>)
 
-![PowerBI](c:\Users\domin\Documents\GitHub\Dominik-Portfolio\Bilder\Screenshot Power BI.png)
+![PowerBi](<Screenshot Power BI.png>)
 
 ### Nutzung von einer Künstlichen Intelligenz
 
