@@ -29,7 +29,9 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ![PowerBi](<Screenshot Power BI.png>)
 
+
 ### Nutzung von einer Künstlichen Intelligenz
+
 
 **[KI-generierte Bilder]** Ich habe erneut ein Prompt für ChatGPT geschrieben, dass er beispielsweise meine Katze in einem richtigen Menschen verwandeln soll.
 
