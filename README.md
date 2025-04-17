@@ -41,7 +41,6 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ![Ergebnis2](<KI-Generiertes Bild.png>)
 
-### Nutzung von einer Künstlichen Intelligenz *2*
 
 
 
