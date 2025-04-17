@@ -36,7 +36,7 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 ![Power BI](Power_BI_Trainingsplan-1.png)
 
 ---
-*[---   ]  ** 
+ 
 ### Nutzung von einer Künstlichen Intelligenz
 
 
