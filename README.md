@@ -43,7 +43,6 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ### Nutzung von einer Künstlichen Intelligenz *2*
 
-**[Hilfe von Künstlicher Intelligenz]** Ich habe ChatGPT gefragt, ob er Tipps für mein Anschreiben hat.
 
-![Prompt](Chatgpt_prompt_Anschreiben.png)
+
 
