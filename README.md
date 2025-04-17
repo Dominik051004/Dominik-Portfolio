@@ -21,7 +21,7 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ### Daten und Analyse
 
-**[Trainingsplan]** Zuerst habe ich habe ein Prompt für ChatGPT geschrieben.
+**[Trainingsplan]** Zuerst habe ich habe ein Prompt für ChatGPT geschrieben, eine Excel-tabelle erhalten und diese in Power BI visualisiert.
 
 ![Prompt](<Prompt Trainingsplan.png>)
 
@@ -43,7 +43,7 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ### Nutzung von einer Künstlichen Intelligenz *2*
 
-**[Hilfe von Künstlicher Intelligenz]** Ich habe beispielsweise ChatGPT gefragt, ob er Tipps für mein Anschreiben hat.
+**[Hilfe von Künstlicher Intelligenz]** Ich habe ChatGPT gefragt, ob er Tipps für mein Anschreiben hat.
 
 ![Prompt](Chatgpt_prompt_Anschreiben.png)
 
