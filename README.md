@@ -21,21 +21,27 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ### Daten und Analyse
 
-**[Trainingsplan]** Zuerst habe ich habe ein Prompt für ChatGPT geschrieben, eine Excel-tabelle erhalten und diese in Power BI visualisiert.
+**[Trainingsplan]** Zuerst habe ich ein präzises Prompt an ChatGPT geschrieben, um spezifische Daten zu erhalten.
 
 ![Prompt](<Prompt Trainingsplan.png>)
 
+
+**[Excel]** Diese Daten habe ich dann in einer Excel-Tabelle gespeichert und in Power BI importiert.
+
+
 ![Ergebnis](<Excel Trainingsplan-1.png>)
 
-![PowerBi](<Screenshot Power BI.png>)
+**[PowerBI]** Schließlich habe ich die Daten in Power BI weiter bearbeitet und die einzelnen Schritte durch entsprechende Bilder veranschaulicht.
+
+![Power BI](Power_BI_Trainingsplan-1.png)
 
 ---
-
+*[---   ]  ** 
 ### Nutzung von einer Künstlichen Intelligenz
 
 
 
-**[KI-generierte Bilder]** Ich habe erneut ein Prompt für ChatGPT geschrieben, dass er beispielsweise meine Katze in einem richtigen Menschen verwandeln soll.
+**[KI-generierte Bilder]** Ich habe ein Prompt erstellt, um meine Katze als realistische menschliche Figur zu generieren. Ein weiteres Prompt zeigt einen Jungen, der auf einer Bühne Trompete spielt. Beide Schritte sind in separaten Bildern veranschaulicht.
 
 ![Prompt](<Prompt - Katze zu Mensch.png>)
 
