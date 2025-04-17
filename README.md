@@ -39,8 +39,6 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ![Prompt2](<Prompt - KI-Generiertes Bild.png>)
 
-![Ergebnis2](<KI-Generiertes Bild.png>)
-
 
 
 
