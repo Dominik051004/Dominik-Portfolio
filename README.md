@@ -28,7 +28,7 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 **[Excel]** Diese Daten habe ich dann in einer Excel-Tabelle gespeichert.
 
-[Ergebnis:](<Excel Trainingsplan-2.png>)
+![Excel](<Excel Trainingsplan-4.png>)
 
 **[PowerBI]** Schließlich habe ich die Daten in Power BI weiter bearbeitet und die einzelnen Schritte durch entsprechende Bilder veranschaulicht.
 
