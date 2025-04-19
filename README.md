@@ -1,6 +1,6 @@
 # Dominik-Portfolio
 
-# Meine ersten Schritte mit Datenanalyse und Visualisierung
+# Meine ersten Schritte in Datenanalyse mit Excel und Power BI, Python-Programmierung und kreativen Prompts mit ChatGPT
 
 Willkommen in meinem Portfolio
 
