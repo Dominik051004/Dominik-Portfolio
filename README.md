@@ -28,8 +28,7 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 **[Excel]** Diese Daten habe ich dann in einer Excel-Tabelle gespeichert und in Power BI importiert.
 
-
-![Ergebnis](c:\Users\domin\Documents\GitHub\Dominik-Portfolio\Excel Trainingsplan.png)
+![Ergebnis](![c:\Users\domin\Documents\GitHub\Dominik-Portfolio\Excel Trainingsplan.png](<Excel Trainingsplan-1.png>))
 
 **[PowerBI]** Schließlich habe ich die Daten in Power BI weiter bearbeitet und die einzelnen Schritte durch entsprechende Bilder veranschaulicht.
 
