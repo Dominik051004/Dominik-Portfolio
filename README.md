@@ -26,9 +26,9 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 ![Prompt](<Prompt Trainingsplan.png>)
 
 
-**[Excel]** Diese Daten habe ich dann in einer Excel-Tabelle gespeichert und in Power BI importiert.
+**[Excel]** Diese Daten habe ich dann in einer Excel-Tabelle gespeichert.
 
-![Ergebnis:]![c:\Users\domin\Documents\GitHub\Dominik-Portfolio\Excel Trainingsplan.png]
+[Ergebnis:](<Excel Trainingsplan-2.png>)
 
 **[PowerBI]** Schließlich habe ich die Daten in Power BI weiter bearbeitet und die einzelnen Schritte durch entsprechende Bilder veranschaulicht.
 
