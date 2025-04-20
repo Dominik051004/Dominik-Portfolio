@@ -1,19 +1,22 @@
-# Dominik-Portfolio
+# 👋 **Dominik-Portfolio**
 
-# Meine ersten Schritte in Datenanalyse mit Excel und Power BI, Python-Programmierung und kreativen Prompts mit ChatGPT
+## Willkommen in meinem Portfolio ✨
 
-Willkommen in meinem Portfolio
-
-Ich bin 20 Jahre alt und bewerbe mich bei **HOCHTIEF** für eine Ausbildung im Bereich **Daten- und Prozessanalyse**.
+Hier sehen Sie meine ersten Schritte in der **Datenanalyse** mit **Excel** und **Power BI**, der **Python-Programmierung** und der kreativen Nutzung von **Prompts mit ChatGPT**.
 
 ---
 
-## Warum Daten und Prozesse?
+### 📚 **Über mich**
 
-Mich interessiert, wie man mit Daten Abläufe besser verstehen und optimieren kann. Ich finde es spannend herauszufinden,  
-wo es in Prozessen hakt und wie man mit den richtigen Werkzeugen Lösungen finden kann.
+Ich bin 20 Jahre alt und bewerbe mich bei **HOCHTIEF** für eine Ausbildung im Bereich **Daten- und Prozessanalyse**. In diesem Portfolio möchte ich meine bisherigen Erfahrungen und Projekte vorstellen, die mich auf diesem Weg begleiten.
 
-Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** oder **SQL** arbeitet und das hier ist mein erster Schritt.
+---
+
+## 🌟 **Warum Daten und Prozesse?**
+
+Mich fasziniert, wie man mit Daten **Prozesse** besser verstehen und **optimieren** kann. Es interessiert mich, herauszufinden, wo in Prozessen Herausforderungen liegen und wie man durch den Einsatz der richtigen Werkzeuge **effiziente Lösungen** finden kann.
+
+Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu arbeiten. Dieses Portfolio stellt meinen ersten Schritt auf diesem aufregenden Weg dar.
 
 ---
 
