@@ -17,13 +17,13 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ---
 
-###  Meine ersten Projekte
+#  Meine ersten Projekte
 
 ## Daten und Analyse
 
-# Projekt: Trainingsplan-Analyse mit Excel und Power BI
-# In meinem ersten Projekt habe ich einen Trainingsplan in Excel erstellt und die Daten mit Power BI analysiert. Ich habe untersucht, auf welche Muskelgruppen ich das meiste Gewicht trage, um zu sehen, ob mein Training gleichmäßig verteilt ist, und an welchen Tagen ich den höchsten Kalorienverbrauch habe.
-# Technologien: Excel, Power BI
+### Projekt: Trainingsplan-Analyse mit Excel und Power BI
+### In meinem ersten Projekt habe ich einen Trainingsplan in Excel erstellt und die Daten mit Power BI analysiert. Ich habe untersucht, auf welche Muskelgruppen ich das meiste Gewicht trage, um zu sehen, ob mein Training gleichmäßig verteilt ist, und an welchen Tagen ich den höchsten Kalorienverbrauch habe.
+### Technologien: Excel, Power BI
 
 
 **[Trainingsplan]** Zuerst habe ich ein präzises Prompt an ChatGPT geschrieben, um spezifische Daten zu erhalten.
