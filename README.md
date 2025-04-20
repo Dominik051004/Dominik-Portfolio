@@ -50,5 +50,16 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 
 
+### Dazu habe mir grundlegende Kenntnisse in Python angeeignet und bereits kleinere Projekte mithilfe von ChatGPT umgesetzt. 
+
+**[Überschrift]** Dieses Python-Spiel wurde mit einem ChatGPT-Prompt erstellt, bei dem der Computer eine Zahl auswählt und der Benutzer diese erraten muss. Ich habe den generierten Code angepasst und optimiert.
+
+![GuessTheNumber](GuessTheNumber.py)
+
+**[Überschrift]** Mit Hilfe von ChatGPT habe ich einen Python-Code erstellt, der automatisch meinen Ordner sortiert. Der Code organisiert Dateien nach Typ, was das Verwalten von Dateien deutlich vereinfacht.
+
+![FileOrganizer](fileOrganizer.py)
+
+
 
 
