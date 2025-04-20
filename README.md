@@ -41,9 +41,9 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ---
  
-### Nutzung von einer Künstlichen Intelligenz
+# Nutzung von einer Künstlichen Intelligenz
 
-
+## In diesem Projekt habe ich Prompts entwickelt, die automatisch Bilder generieren. Dabei habe ich gelernt, wie man Daten in Form von Prompts verarbeitet und Prozesse automatisiert, um effiziente Ergebnisse zu erzielen.
 
 **[KI-generierte Bilder]** Ich habe ein Prompt erstellt, um meine Katze als realistische menschliche Figur zu generieren. Ein weiteres Prompt zeigt einen Jungen, der auf einer Bühne Trompete spielt. Beide Schritte sind in separaten Bildern veranschaulicht.
 
