@@ -21,6 +21,11 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 ### Daten und Analyse
 
+## Projekt: Trainingsplan-Analyse mit Excel und Power BI
+## In meinem ersten Projekt habe ich einen Trainingsplan in Excel erstellt und die Daten mit Power BI analysiert. Ich habe untersucht, auf welche Muskelgruppen ich das meiste Gewicht trage, um zu sehen, ob mein Training gleichmäßig verteilt ist, und an welchen Tagen ich den höchsten Kalorienverbrauch habe.
+## Technologien: Excel, Power BI
+
+
 **[Trainingsplan]** Zuerst habe ich ein präzises Prompt an ChatGPT geschrieben, um spezifische Daten zu erhalten.
 
 ![Prompt](<Prompt Trainingsplan.png>)
@@ -50,13 +55,13 @@ Ich möchte lernen, wie man mit Tools wie **Python**, **Excel**, **Power BI** od
 
 
 
-### Dazu habe mir grundlegende Kenntnisse in Python angeeignet und bereits kleinere Projekte mithilfe von ChatGPT umgesetzt. 
+### Ich habe mir zusätzlich grundlegende Kenntnisse in Python angeeignet und bereits kleinere Projekte mithilfe von ChatGPT umgesetzt. 
 
-**[Überschrift]** Dieses Python-Spiel wurde mit einem ChatGPT-Prompt erstellt, bei dem der Computer eine Zahl auswählt und der Benutzer diese erraten muss. Ich habe den generierten Code angepasst und optimiert.
+**[Spielentwicklung mit ChatGPT]** Dieses Python-Spiel wurde mit einem ChatGPT-Prompt erstellt, bei dem der Computer eine Zahl auswählt und der Benutzer diese erraten muss. In dem Spiel geht es darum, eine bestimmte Zahl von 1-100 zu erraten.
 
 ![GuessTheNumber](GuessTheNumber.py)
 
-**[Überschrift]** Mit Hilfe von ChatGPT habe ich einen Python-Code erstellt, der automatisch meinen Ordner sortiert. Der Code organisiert Dateien nach Typ, was das Verwalten von Dateien deutlich vereinfacht.
+**[Automatische Ordnersortierung]** Mit Hilfe von ChatGPT habe ich einen Python-Code erstellt, der automatisch meinen Ordner sortiert. Der Code organisiert Dateien nach Typ, was das Verwalten von Dateien deutlich vereinfacht.
 
 ![FileOrganizer](fileOrganizer.py)
 
