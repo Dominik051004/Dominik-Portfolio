@@ -58,7 +58,7 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 
 
-### Ich habe mir zusätzlich grundlegende Kenntnisse in Python angeeignet und bereits kleinere Projekte mithilfe von ChatGPT umgesetzt. 
+# Ich habe mir zusätzlich grundlegende Kenntnisse in Python angeeignet und bereits kleinere Projekte mithilfe von ChatGPT umgesetzt. 
 
  ## **[Spielentwicklung mit ChatGPT]** Dieses Python-Spiel wurde mit einem ChatGPT-Prompt erstellt, bei dem der Computer eine Zahl auswählt und der Benutzer diese erraten muss. In dem Spiel geht es darum, eine bestimmte Zahl von 1-100 zu erraten.
 
