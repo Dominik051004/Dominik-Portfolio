@@ -70,7 +70,11 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 ![FileOrganizer](fileOrganizer.py)
 
+### Das Bild zeigt die Ausführung eines File-Organizer-Programms in der Eingabeaufforderung. Nach Eingabe des Ordnerpfads wird der Inhalt automatisch nach Dateitypen sortiert.
+
 ![File Organizer Testversuch](FileOrganizer-1.png)
+
+### Das Bild zeigt den Ordner nach der Sortierung. Die Dateien wurden automatisch in die Unterordner „JPG“, „PNG“, „INK“ und „URL“ verschoben – entsprechend ihrer Dateiendungen.
 
 ![File Organizer Ergebnis](<FileOrganizer Ergebis-1.png>)
 
