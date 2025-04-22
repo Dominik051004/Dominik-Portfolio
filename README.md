@@ -64,7 +64,7 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 ![GuessTheNumber](GuessTheNumber.py)
 
-### Das Bild zeigt die Ausführung des Konsolenspiels „GuessTheNumber“. In der Eingabeaufforderung wird gerade eine Zahl eingegeben, um die vom Programm zufällig gewählte Zahl zu erraten. Mit jedem Versuch gibt das Spiel Hinweise.
+#### Das Bild zeigt die Ausführung des Konsolenspiels „GuessTheNumber“. In der Eingabeaufforderung wird gerade eine Zahl eingegeben, um die vom Programm zufällig gewählte Zahl zu erraten. Mit jedem Versuch gibt das Spiel Hinweise.
 
 ![GuessTheNumber Testversuch](Zahlenraten-1.png)
 
@@ -74,11 +74,11 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 ![FileOrganizer](fileOrganizer.py)
 
-### Das Bild zeigt die Ausführung eines File-Organizer-Programms in der Eingabeaufforderung. Nach Eingabe des Ordnerpfads wird der Inhalt automatisch nach Dateitypen sortiert.
+#### Das Bild zeigt die Ausführung eines File-Organizer-Programms in der Eingabeaufforderung. Nach Eingabe des Ordnerpfads wird der Inhalt automatisch nach Dateitypen sortiert.
 
 ![File Organizer Testversuch](FileOrganizer-1.png)
 
-### Das Bild zeigt den Ordner nach der Sortierung. Die Dateien wurden automatisch in die Unterordner „JPG“, „PNG“, „INK“ und „URL“ verschoben – entsprechend ihrer Dateiendungen.
+#### Das Bild zeigt den Ordner nach der Sortierung. Die Dateien wurden automatisch in die Unterordner „JPG“, „PNG“, „INK“ und „URL“ verschoben – entsprechend ihrer Dateiendungen.
 
 ![File Organizer Ergebnis](<FileOrganizer Ergebis-1.png>)
 
