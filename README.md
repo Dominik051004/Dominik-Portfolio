@@ -64,6 +64,8 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 ![GuessTheNumber](GuessTheNumber.py)
 
+![GuessTheNumber Testversuch](Zahlenraten-1.png)
+
 **[Automatische Ordnersortierung]** Mit Hilfe von ChatGPT habe ich einen Python-Code erstellt, der automatisch meinen Ordner sortiert. Der Code organisiert Dateien nach Typ, was das Verwalten von Dateien deutlich vereinfacht.
 
 ![FileOrganizer](fileOrganizer.py)
