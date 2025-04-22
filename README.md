@@ -64,6 +64,8 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 ![GuessTheNumber](GuessTheNumber.py)
 
+### Das Bild zeigt die Ausführung des Konsolenspiels „GuessTheNumber“. In der Eingabeaufforderung wird gerade eine Zahl eingegeben, um die vom Programm zufällig gewählte Zahl zu erraten. Mit jedem Versuch gibt das Spiel Hinweise.
+
 ![GuessTheNumber Testversuch](Zahlenraten-1.png)
 
 **[Automatische Ordnersortierung]** Mit Hilfe von ChatGPT habe ich einen Python-Code erstellt, der automatisch meinen Ordner sortiert. Der Code organisiert Dateien nach Typ, was das Verwalten von Dateien deutlich vereinfacht.
