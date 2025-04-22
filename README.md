@@ -56,7 +56,7 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 ![Prompt2](<Prompt - KI-Generiertes Bild.png>)
 
-
+---
 
 # Ich habe mir zusätzlich grundlegende Kenntnisse in Python angeeignet und bereits kleinere Projekte mithilfe von ChatGPT umgesetzt. 
 
