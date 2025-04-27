@@ -42,6 +42,19 @@ Ich möchte lernen, mit Tools wie **Python**, **Excel** und **Power BI** und zu 
 
 ![Power BI](Power_BI_Trainingsplan-1.png)
 
+
+### Projekt: Trainingsplan-Analyse mit Excel und Power BI
+
+### Ich habe eine Excel-Tabelle zur Kostenkontrolle erstellen lassen, in der die geplanten und tatsächlichen Projektkosten über das Jahr hinweg erfasst werden. Anschließend habe ich die Daten in Power BI importiert und mit verschiedenen Visualisierungen ausgewertet.
+
+**[Excel]** Die erstellte Excel-Tabelle zeigt die geplanten und tatsächlichen Kosten verschiedener Projekte über das Jahr hinweg.
+
+![Kostenkontrolle](Excel_Kostenkontrolle-1.png)
+
+**[PowerBI]** In Power BI habe ich die Projektkosten aus der Excel-Tabelle visualisiert und Abweichungen zwischen geplanten und tatsächlichen Kosten dargestellt.
+
+![Power BI](Power_BI_Kostenübersicht-1.png)
+
 ---
  
 # Nutzung von einer Künstlichen Intelligenz
